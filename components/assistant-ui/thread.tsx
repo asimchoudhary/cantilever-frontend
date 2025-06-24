@@ -32,7 +32,7 @@ export const Thread: FC = () => {
     >
       <div className="flex flex-row items-center w-full justify-center border-b border-white-300/30 py-3 px-4">
         <h1 className="text-xl font-bold text-primary font-sans">
-          Lecturer's Assistant
+          Lecturer Assistant
         </h1>
       </div>
       <ThreadPrimitive.Viewport className="flex h-full flex-col items-center overflow-y-scroll scroll-smooth bg-inherit px-4 pt-8">
